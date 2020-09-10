@@ -75,6 +75,7 @@ input:hover {
 }
 /*"my github" css*/
 .promo {
+    text-align: center;
     width: 65px;
     margin: 5em auto;
     color: black;
@@ -97,7 +98,7 @@ input:hover {
 }
 .promo:hover::before {
     visibility: visible;
-    transform: scaleX(0.9);
+    transform: scaleX(1);
 }
 
 
