@@ -97,7 +97,7 @@ input:hover {
 }
 .promo:hover::before {
     visibility: visible;
-    transform: scaleX(1);
+    transform: scaleX(0.9);
 }
 
 
