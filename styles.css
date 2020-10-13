@@ -44,7 +44,7 @@ input:hover {
     grid-row-end: 5;
     grid-column-start: 4;
     grid-column-end: 5;
-    background-color: #6369D1;
+    background-color: #6369d1;
 }
 .zero {
     grid-column-start: 1;
@@ -72,6 +72,15 @@ input:hover {
     padding-right: 30px;
     padding-left: 30px;
     text-align: right;
+}
+.selected
+{
+    background-color: #6369d1;
+    color: black;
+    cursor: pointer;
+    font-weight: bold;
+    border-color: black;
+    box-shadow: none;
 }
 /*"my github" css*/
 .promo {
